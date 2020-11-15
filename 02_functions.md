@@ -32,9 +32,9 @@
 - **Array.prototype.forEach()** (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/foreach">Link</a>)
   주어진 함수를 배열 요소 각각에 대해 실행
   <img src="./img/capture02-7.png" width="500px">
-  - array를 반환해주는 map함수를 활용, 훨씬 간단하게 코딩이 가능
+  - array를 반환해주는 **map함수**를 활용, 훨씬 간단하게 코딩이 가능
     <img src="./img/capture02-8.png" width="500px">
-  - map함수를 통해 object를 return할 때, implicit return은 {}밖을 ()으로 묶어 주면 object를 return 가능
+  - map함수를 통해 object를 return할 때, _implicit return은 {}밖을 ()으로 묶어 주면_ object를 return 가능
     <img src="./img/capture02-9.png" width="500px">
 
 #### 2.4 Defalut Values
