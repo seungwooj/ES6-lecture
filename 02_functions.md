@@ -26,7 +26,7 @@
   <img src="./img/capture02-5.png" width="500px">
 
 - **Array.prototype.filter()** (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/filter">Link</a>)  
-  주어진 함수의 테스트를 통과하는 모든 요소를 모아 새로운 배열로 반환
+  주어진 함수의 테스트를 통과하는 모든 요소를 모아 새로운 배열로 반환  
   <img src="./img/capture02-6.png" width="500px">
 
 - **Array.prototype.forEach()** (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/foreach">Link</a>)  
