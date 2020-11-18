@@ -17,7 +17,7 @@
 
 - Styled components: library or packet for React that allow to write CSS in JS
 - element와 css를 input으로 받아서 css를 적용한 element를 return하는 함수 작성
-- React를 이해해야 잘 이해할 수 있음
+- React를 이해해야 잘 이해할 수 있음  
   <img src="./img/capture03-4.png" width="600px">
 - result
   <img src="./img/capture03-5.png" width="600px">
@@ -29,7 +29,7 @@
   <img src="./img/capture03-6.png" width="500px">
 
 - **String.prototype.repeat()** (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/repeat">Link</a>)  
-  문자열을 주어진 횟수만큼 반복해 붙인 새로운 문자열을 반환.
+  문자열을 주어진 횟수만큼 반복해 붙인 새로운 문자열을 반환.  
   <img src="./img/capture03-7.png" width="500px">
 
 - **String.prototype.startsWith()** (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/startswith">Link</a>)  
