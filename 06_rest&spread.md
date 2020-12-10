@@ -7,4 +7,4 @@
 
 #### 6.1 Spread Applications
 
--
+- Adding / Merging / Updating arrays, objects...
