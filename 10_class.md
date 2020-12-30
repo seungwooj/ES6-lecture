@@ -24,5 +24,5 @@
   ex> When you add an eventlistener to the target,  
    　 the handler of that event will point "this" keyword to event target
 - 클래스 안의 함수에 대해서 계속 this가 클래스를 가리키게 하려면?  
-  → **클래스 안의 함수를 arrowfunction으로 바꿔준다.**  
+  → **클래스 안의 함수를 arrow-function으로 바꿔준다.**  
   <img src="./img/capture10-4.png" width="800px">

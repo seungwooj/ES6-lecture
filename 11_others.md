@@ -13,12 +13,12 @@
 - set lets you store unique values or object references. **UNIQUE VALUES, NOT KEYS!** (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/">Link</a>)
 - 선언: const sep = new Set()
 - **POWERFUL APIS**
-- has : Set에 특정 value가 있는지를 boolean으로 리턴 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/has">Link</a>)
-- delete : Set에서 특정 value를 삭제 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/delete">Link</a>)
-- add : Set에 특정 value를 추가 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/add">Link</a>)
-- clear : Set 안의 값을 전부 삭제 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/delete">Link</a>)
-- size : Set의 길이를 리턴 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/size">Link</a>)
-- keys : Set의 key값들을 iterator로 리턴 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/keys">Link</a>)
+  - has : Set에 특정 value가 있는지를 boolean으로 리턴 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/has">Link</a>)
+  - delete : Set에서 특정 value를 삭제 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/delete">Link</a>)
+  - add : Set에 특정 value를 추가 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/add">Link</a>)
+  - clear : Set 안의 값을 전부 삭제 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/delete">Link</a>)
+  - size : Set의 길이를 리턴 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/size">Link</a>)
+  - keys : Set의 key값들을 iterator로 리턴 (<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/keys">Link</a>)
 
 #### 11.2 WeakSet
 
