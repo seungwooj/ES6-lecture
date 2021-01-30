@@ -1,3 +1,3 @@
 # ES6-lecture
 
-nomad coders Javascript theory
+nomad coders Modern Javascript theory (reference: https://javascript.info/)
